@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.colorrosado {
+    background-color: hsla(288,95%,69%,1.00);
+}
+.colornaranja {
+    background-color: hsla(35,100%,50%,1.00);
+}
+.transparencia {
+    background-color: hsla(0,0%,0%,0.62);
+}
+.coloramarillo {
+    background-color: hsla(42,100%,67%,1.00);
+}
+.textoblanco {
+    color: hsla(0,0%,100%,1.00);
+}

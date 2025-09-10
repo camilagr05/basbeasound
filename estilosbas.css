@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.colormorado {
+    background-color: hsla(35,100%,50%,1.00);
+}
+.textoblanco {
+    color: hsla(0,0%,100%,1.00);
+}
+.colorgris {
+    background-color: hsla(0,0%,18%,1.00);
+}
+.rosado {
+    background-color: hsla(288,95%,69%,1.00);
+}
+.colortransparencia1 {
+    background-color: hsla(0,0%,0%,0.67);
+}
+.coloramarillo  {
+    background-color: hsla(42,100%,67%,1.00);
+}
+.morado {
+    background-color: hsla(273,84%,78%,1.00);
+}
+.rojo {
+    background-color: hsla(359,100%,50%,0.42);
+}
